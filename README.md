@@ -1,3 +1,3 @@
 DEMO
 
-my contents
+my content.
